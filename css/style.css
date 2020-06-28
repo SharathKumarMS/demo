@@ -1554,7 +1554,7 @@ figure {
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 3000px) {
   .gallery .col-md-3 img {
     width: 100%;
   }
